@@ -1,4 +1,4 @@
-#include "FFT.h"
+#include "fft.h"
 #include <fstream>
 #include <string>
 #include <sstream>
