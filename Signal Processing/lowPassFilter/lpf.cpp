@@ -1,5 +1,5 @@
 
-#include "LowPassFilter.hpp"
+#include "lpf.hpp"
 
 #define ERROR_CHECK (true)
 
